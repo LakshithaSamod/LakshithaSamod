@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
   <img src="https://raw.githubusercontent.com/LakshithaSamod/LakshithaSamod/master/name1.svg" alt="Welcome to Lakshitha Samod's profile!" /> 
-</h1>
+
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
  
 ## I'm a Student, Developer, and Learner!! 
 
@@ -137,7 +140,6 @@ Sunday       104 commits    ██░░░░░░░░░░░░░░░�
 
 ```
 <!--  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LakshithaSamod.LakshithaSamod)   -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 
