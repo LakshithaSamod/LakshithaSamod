@@ -56,6 +56,13 @@ Here are some ideas to get you started:
   
 </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshitha-samod/)](https://www.linkedin.com/in/lakshitha-samod/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lakshithasamod/)](https://instagram.com/lakshithasamod)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lakshithasamod@gmail.com)](mailto:lakshithasamod@gmail.com)
+
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -121,7 +128,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/LakshithaSamod/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=LakshithaSamod&theme=react-dark&hide_border=true" /></a>
 <br />
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LakshithaSamod.LakshithaSamod)
+<!--  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LakshithaSamod.LakshithaSamod)   -->
 <br /><br />
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
