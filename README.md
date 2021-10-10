@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UC_CvPIwiEn0_Dis86sqOCag"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://twitter.com/NeerajR76494084"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LakshithaSamod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshitha-samod/)](https://www.linkedin.com/in/lakshitha-samod/)
 [![Instagram Badge](https://img.shields.io/badge/-LakshithaSamod-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lakshithasamod/)](https://instagram.com/lakshithasamod)
 [![Facebook Badge](https://img.shields.io/badge/-LakshithaSamod-087CEA?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010081233598/)](https://www.facebook.com/profile.php?id=100010081233598)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Twitter Badge](https://img.shields.io/badge/-SamodLakshitha-darkred?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/SamodLakshitha)](https://twitter.com/SamodLakshitha)
 [![Wordpress Badge](https://img.shields.io/badge/-@ceylonshark-03a57a?style=flat-square&labelColor=000000&logo=Wordpress&link=https://ceylonshark.wordpress.com/blog/)](https://ceylonshark.wordpress.com/blog/)
 [![Gmail Badge](https://img.shields.io/badge/-lakisamod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lakisamod@gmail.com)](mailto:lakisamod@gmail.com)
 
