@@ -141,3 +141,6 @@ Welcome to Lakshitha Samod's profile! <img src="https://media.giphy.com/media/12
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/LakshithaSamod/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=LakshithaSamod&theme=react-dark&hide_border=true" /></a>
+<br />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
