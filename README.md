@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🦇 Fun Fact: Bat Man Fan😁
 
 
-
+<br />
 ## 🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-lakisamod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lakisamod@gmail.com)](mailto:lakisamod@gmail.com)
 
 
+<br />
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -54,8 +55,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 🛠️ My favorite tools
-
+<br />
 ### 👨‍💻 Programming languages
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -68,6 +68,7 @@ Here are some ideas to get you started:
   ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
   
+<br />
 ### 🧰 Frameworks and libraries
 
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -77,6 +78,7 @@ Here are some ideas to get you started:
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
+<br />
 ### 🗄️ Databases and cloud hosting
 
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -86,6 +88,7 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+<br />
 ### 💻 Software and tools
   
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
@@ -98,6 +101,7 @@ Here are some ideas to get you started:
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
 
+<br />
 # 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -110,8 +114,10 @@ Here are some ideas to get you started:
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
+<br />
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/LakshithaSamod/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=LakshithaSamod&theme=react-dark&hide_border=true" /></a>
+<br />
 <!--START_SECTION:waka-->
 
 **I'm a Night 🦉** 
@@ -123,6 +129,7 @@ Here are some ideas to get you started:
 🌙 Night      289 commits    █████░░░░░░░░░░░░░░░░░░░░   21.6%
 
 ```
+<br />
 📅 **I'm Most Productive on Monday** 
 
 ```text
@@ -138,6 +145,5 @@ Sunday       104 commits    ██░░░░░░░░░░░░░░░�
 
 <br />
 <!--  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LakshithaSamod.LakshithaSamod)   -->
-<br /><br />
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
