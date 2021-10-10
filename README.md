@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### 👨‍💻 Programming languages 
+## 👨‍💻 Programming languages 
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
   
 
-### 🧰 Frameworks and libraries <br />
+## 🧰 Frameworks and libraries <br />
 
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 
-### 🗄️ Databases and cloud hosting 
+## 🗄️ Databases and cloud hosting 
 
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-### 💻 Software and tools 
+## 💻 Software and tools 
   
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
@@ -140,7 +140,5 @@ Saturday     141 commits    ██░░░░░░░░░░░░░░░�
 Sunday       104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
 
 ```
-
-<br />
 <!--  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LakshithaSamod.LakshithaSamod)   -->
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
