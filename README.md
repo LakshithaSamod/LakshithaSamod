@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## I'm a Student, Developer, and Learner!!
 
-- 👀 I’m interested in New Tech, Frontend Development, Mobile Development
+- 👀 I’m interested in New Tech, Frontend Development & Mobile Development
 - 📚 Undergraduate, University of Moratuwa, Faculty of Information Technology
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
