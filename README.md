@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🦇 Fun Fact: Bat Man Fan😁
 
-
-<br />
-## 🙋‍♂️ Connect with me <br />
+## 🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
 
