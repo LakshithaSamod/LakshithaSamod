@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 ### 💻 Software and tools
 
-<p>
+
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
-</p>
+
 
 # 📊 Github stats
 
