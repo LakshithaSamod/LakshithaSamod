@@ -30,31 +30,12 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🦇 Fun Fact: Bat Man Fan😁
 
-<!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC_CvPIwiEn0_Dis86sqOCag?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC_CvPIwiEn0_Dis86sqOCag?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630" /></a>  
-  <a href="https://twitter.com/NeerajR76494084">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/NeerajR76494084?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/Neeraj2002">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://neeraj2002.github.io/">
-    <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
-</p>
+
 
 ## 🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC_CvPIwiEn0_Dis86sqOCag"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/NeerajR76494084"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://devfolio.co/@nnr0702"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEVFOLIO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=black"></a>
-  <a href="https://dev.to/neeraj2002"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  
-</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LakshithaSamod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshitha-samod/)](https://www.linkedin.com/in/lakshitha-samod/)
 [![Instagram Badge](https://img.shields.io/badge/-LakshithaSamod-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lakshithasamod/)](https://instagram.com/lakshithasamod)
@@ -78,19 +59,23 @@ Here are some ideas to get you started:
 ### 👨‍💻 Programming languages
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
   ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
   
 ### 🧰 Frameworks and libraries
 
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+  ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ### 🗄️ Databases and cloud hosting
 
@@ -102,17 +87,16 @@ Here are some ideas to get you started:
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ### 💻 Software and tools
-
-
   
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
-
 
 # 📊 Github stats
 
@@ -128,6 +112,30 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/LakshithaSamod/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=LakshithaSamod&theme=react-dark&hide_border=true" /></a>
+<!--START_SECTION:waka-->
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+🌆 Daytime    488 commits    █████████░░░░░░░░░░░░░░░░   36.47% 
+🌃 Evening    446 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌙 Night      289 commits    █████░░░░░░░░░░░░░░░░░░░░   21.6%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       311 commits    █████░░░░░░░░░░░░░░░░░░░░   23.24% 
+Tuesday      225 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
+Wednesday    240 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.94% 
+Thursday     159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
+Friday       158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
+Saturday     141 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
+Sunday       104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
+
+```
+
 <br />
 <!--  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LakshithaSamod.LakshithaSamod)   -->
 <br /><br />
