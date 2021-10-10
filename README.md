@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-lakisamod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lakisamod@gmail.com)](mailto:lakisamod@gmail.com)
 
 
-<br />
-## 🔥 Streak stats <br />
+
+## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -53,8 +53,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<br />
-### 👨‍💻 Programming languages <br />
+
+### 👨‍💻 Programming languages 
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
   
-<br />
+
 ### 🧰 Frameworks and libraries <br />
 
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -76,8 +76,8 @@ Here are some ideas to get you started:
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-<br />
-### 🗄️ Databases and cloud hosting <br />
+
+### 🗄️ Databases and cloud hosting 
 
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -86,8 +86,8 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-<br />
-### 💻 Software and tools <hr />
+
+### 💻 Software and tools 
   
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
@@ -99,8 +99,8 @@ Here are some ideas to get you started:
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
 
-<br />
-# 📊 Github stats <br />
+
+# 📊 Github stats 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 🌙 Night      289 commits    █████░░░░░░░░░░░░░░░░░░░░   21.6%
 
 ```
-<br />
+
 📅 **I'm Most Productive on Monday** 
 
 ```text
