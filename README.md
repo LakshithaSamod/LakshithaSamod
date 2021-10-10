@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-LakshithaSamod-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lakshithasamod/)](https://instagram.com/lakshithasamod)
 [![Facebook Badge](https://img.shields.io/badge/-LakshithaSamod-087CEA?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010081233598/)](https://www.facebook.com/profile.php?id=100010081233598)
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Wordpress Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Wordpress&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Wordpress Badge](https://img.shields.io/badge/-@ceylonshark-03a57a?style=flat-square&labelColor=000000&logo=Wordpress&link=https://ceylonshark.wordpress.com/blog/)](https://ceylonshark.wordpress.com/blog/)
 [![Gmail Badge](https://img.shields.io/badge/-lakisamod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lakisamod@gmail.com)](mailto:lakisamod@gmail.com)
 
 
