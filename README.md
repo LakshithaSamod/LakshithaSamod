@@ -22,11 +22,11 @@ Welcome to Lakshitha Samod's profile! <img src="https://media.giphy.com/media/12
 
 ## I'm a Student, Developer, and Learner!!
 
-- 👀 I’m interested in New Tech, Frontend Development, Python
+- 👀 I’m interested in New Tech, Frontend Development, Mobile Development
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 💞️ Fun Fact: Iron Man Fan😁
+- 🦇 Fun Fact: Bat Man Fan😁
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
