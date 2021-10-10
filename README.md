@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 <br />
-## 🙋‍♂️ Connect with me
+## 🙋‍♂️ Connect with me <br />
 
 <!-- Badges template - https://github.com/badges/shields -->
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 <br />
-## 🔥 Streak stats
+## 🔥 Streak stats <br />
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-### 👨‍💻 Programming languages
+### 👨‍💻 Programming languages <br />
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
   
 <br />
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks and libraries <br />
 
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 <br />
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases and cloud hosting <br />
 
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 <br />
-### 💻 Software and tools
+### 💻 Software and tools <br />
   
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
 
 <br />
-# 📊 Github stats
+# 📊 Github stats <br />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
@@ -146,4 +146,3 @@ Sunday       104 commits    ██░░░░░░░░░░░░░░░�
 <br />
 <!--  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LakshithaSamod.LakshithaSamod)   -->
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
