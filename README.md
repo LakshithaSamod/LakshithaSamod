@@ -19,12 +19,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/LakshithaSamod/LakshithaSamod/master/name1.svg" alt="Welcome to Lakshitha Samod's profile!" /> 
 </h1>
 
-
-
-
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> 
-## I'm a Student, Developer, and Learner!!   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/>
+## I'm a Student, Developer, and Learner!!  
 
 - 👀 I’m interested in New Tech, Frontend Development & Mobile Development
 - 📚 Undergraduate, University of Moratuwa, Faculty of Information Technology
