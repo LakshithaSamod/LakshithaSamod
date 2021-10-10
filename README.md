@@ -102,19 +102,19 @@ Here are some ideas to get you started:
 
 # 📊 Github stats 
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/LakshithaSamod//github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/LakshithaSamod/github-readme-stats"><img alt="NeerajRathod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LakshithaSamod&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/LakshithaSamod/github-readme-stats"><img alt="Neeraj Rathod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshithaSamod&layout=compact" height="192px"/></a>
+    <a href="https://github.com/LakshithaSamod/github-readme-stats"><img alt="Lakshitha Samod/'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=LakshithaSamod&show_icons=true&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/LakshithaSamod/github-readme-stats"><img alt="Lakshitha Samod/'s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshithaSamod&layout=compact" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <br />
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/LakshithaSamod/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=LakshithaSamod&theme=react-dark&hide_border=true" /></a>
+<!-- https://github.com/LakshithaSamod//github-readme-activity-graph -->
+<a href="https://github.com/LakshithaSamod/github-readme-activity-graph"><img alt="Lakshitha Samod/'s Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=LakshithaSamod&theme=react-dark&hide_border=true" /></a>
 <br />
 <!--START_SECTION:waka-->
 
