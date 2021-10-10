@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" flaot=right> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
   <img src="https://raw.githubusercontent.com/LakshithaSamod/LakshithaSamod/master/name1.svg" alt="Welcome to Lakshitha Samod's profile!" /> 
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h3>
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <p align="center">
   <a href="https://www.youtube.com/channel/UC_CvPIwiEn0_Dis86sqOCag"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://twitter.com/NeerajR76494084"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
