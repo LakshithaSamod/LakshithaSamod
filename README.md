@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 ## 👨‍💻 Programming languages 
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
   ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
