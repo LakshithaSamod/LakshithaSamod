@@ -92,8 +92,8 @@ Here are some ideas to get you started:
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
-
+  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco) 
+  ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=flat-square&logo=Photoshop)
 
 # 📊 Github stats 
 
