@@ -112,7 +112,11 @@ Here are some ideas to get you started:
 <br />
 <!--START_SECTION:waka-->
 
-**I'm a Night 🦉** 
+<br />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LakshithaSamod&no-frame=true&row=1&column=7&theme=radical" alt="LakshithaSamod" /></a> </p>
+<br />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff95&vCenter=true&lines=I'm+night🦉)
 
 ```text
 🌞 Morning    115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
