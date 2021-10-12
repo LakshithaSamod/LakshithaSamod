@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-SamodLakshitha-darkred?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/SamodLakshitha)](https://twitter.com/SamodLakshitha)
 [![Wordpress Badge](https://img.shields.io/badge/-@ceylonshark-488207?style=flat-square&labelColor=000000&logo=Wordpress&link=https://ceylonshark.wordpress.com/blog/)](https://ceylonshark.wordpress.com/blog/)
 [![Gmail Badge](https://img.shields.io/badge/-lakisamod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lakisamod@gmail.com)](mailto:lakisamod@gmail.com)
-
+[![Hashnode Badge](https://img.shields.io/badge/-My_Portfolio-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://lakshithasamod.github.io/Portfolio/)](https://lakshithasamod.github.io/Portfolio/)
 
 
 ## 🔥 Streak stats
@@ -60,7 +60,9 @@ Here are some ideas to get you started:
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)  
+  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ## 🧰 Frameworks and libraries <br />
 
@@ -69,7 +71,9 @@ Here are some ideas to get you started:
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
   ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+  ![React_Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+  ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 
 ## 🗄️ Databases and cloud hosting 
@@ -93,6 +97,8 @@ Here are some ideas to get you started:
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco) 
+  ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) 
+  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg) 
 
 # 📊 Github stats 
 
