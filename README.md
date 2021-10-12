@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-LakshithaSamod-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lakshithasamod/)](https://instagram.com/lakshithasamod)
 [![Facebook Badge](https://img.shields.io/badge/-LakshithaSamod-1155BA?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010081233598/)](https://www.facebook.com/profile.php?id=100010081233598)
 [![Twitter Badge](https://img.shields.io/badge/-SamodLakshitha-darkred?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/SamodLakshitha)](https://twitter.com/SamodLakshitha)
-[![Wordpress Badge](https://img.shields.io/badge/-@ceylonshark-488207?style=flat-square&labelColor=000000&logo=Wordpress&link=https://ceylonshark.wordpress.com/blog/)](https://ceylonshark.wordpress.com/blog/)
+[![Wordpress Badge](https://img.shields.io/badge/-@CeylonShark-488207?style=flat-square&labelColor=000000&logo=Wordpress&link=https://ceylonshark.wordpress.com/blog/)](https://ceylonshark.wordpress.com/blog/)
 [![Gmail Badge](https://img.shields.io/badge/-lakisamod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lakisamod@gmail.com)](mailto:lakisamod@gmail.com)
 [![Hashnode Badge](https://img.shields.io/badge/-My_Portfolio-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://lakshithasamod.github.io/Portfolio/)](https://lakshithasamod.github.io/Portfolio/)
 
